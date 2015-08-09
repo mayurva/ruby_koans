@@ -1,0 +1,7 @@
+- Ruby assert: http://ruby-doc.org/stdlib-2.1.1/libdoc/test/unit/rdoc/Test/Unit/Assertions.html#method-i-assert
+- Ruby Exceptions: http://ruby-doc.org/core-2.2.0/Exception.html
+- Ruby data types
+- Ruby Learning: https://pragmaticstudio.com/blog/2005/3/18/ruby-learning-test-1-are-you-there-world
+- Ruby Shovel operator: http://tundal45.github.io/ruby-shovel-plus-equals.html
+- regex
+- iterators 
